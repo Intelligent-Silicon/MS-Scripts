@@ -34,5 +34,15 @@ You can copy many files at a time and ventoy will give you a boot menu to select
  https://schneegans.de/windows/unattend-generator/
  
  
+ ### God Mode
+ 
+ Create a folder on your desktop and call it:
+ 
+ God Mode.{ED7BA470-8E54-465E-825C-99712043E01C}.
+ 
+ The icon will change from the default folder icon to the Control Panel icon, where it lists all the control panel options in one big list. 
+ If you dont like it, just deleted the folder.
+ 
+ 
  Additional utilities will be added over time if I find them useful for myself.
  
