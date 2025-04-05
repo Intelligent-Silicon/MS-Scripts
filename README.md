@@ -37,6 +37,7 @@ then press enter. Windows will reboot and then not get stuck in a loop looking f
 To use, just download and install the Windows 10/11 installation assistant, select the version of windows you want to install, select the USB stick to download and copy onto. 
 
 https://www.microsoft.com/en-us/software-download/windows11
+
 https://www.microsoft.com/en-gb/software-download/windows10
 
 
