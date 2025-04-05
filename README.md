@@ -36,7 +36,11 @@ then press enter. Windows will reboot and then not get stuck in a loop looking f
  A website to create and configure an AutoUnattend.xml which is searched for and used to automatically install Windows. This can prevent installation of software which can be removed using the MS Dev Box scripts. Your own scripts can be added to the AutoUnattend.xml file to further configure the Windows box during and immediately after installation. This is useful for those who spend a bit of time, adjusting windows to suit their individual preferences and way of working, including installing additional programs which support command line installations.
 To use, just download and install the Windows 10/11 installation assistant, select the version of windows you want to install, select the USB stick to download and copy onto. 
 
-Once completed, just copy the AutoUnattend.xml file into the root folder of the USB stick.
+https://www.microsoft.com/en-us/software-download/windows11
+https://www.microsoft.com/en-gb/software-download/windows10
+
+
+Once completed, just copy the AutoUnattend.xml file into the root folder of the USB stick and boot up your computer with the USB stick plugged in..
 
 To install drivers for your computer, create a folder on the USB stick, calling it Drivers, download them from the internet and extract them into their own subfolder. The Windows Installation software will automatically search and detect the drivers on the USB stick and install them during the installation process. *Note* Not all drivers can be extracted into their own subfolder, but have to be installed from a command line prompt or manually using its setup wizard window aka installation window. Where the driver installation software will accept a command line prompt, this can be included in a script file, and then just call the script file from the AutoUnattend.xml file.
 
