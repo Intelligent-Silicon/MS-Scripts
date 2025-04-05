@@ -24,7 +24,7 @@ then press enter. Windows will reboot and then not get stuck in a loop looking f
  https://www.ventoy.net
  
  
- ### Power Toys.
+ ### Power Toys
  
  Yes Microsoft Power Toys still exist.
  
@@ -34,7 +34,7 @@ then press enter. Windows will reboot and then not get stuck in a loop looking f
  ### AutoUnattend
  
  A website to create and configure an AutoUnattend.xml which is searched for and used to automatically install Windows. This can prevent installation of software which can be removed using the MS Dev Box scripts. Your own scripts can be added to the AutoUnattend.xml file to further configure the Windows box during and immediately after installation. This is useful for those who spend a bit of time, adjusting windows to suit their individual preferences and way of working, including installing additional programs which support command line installations.
-To use, just download and install the Windows 10/11 installation assistant, select the version of windows you want to install, select the USB stick to download and copy onto. 
+To use, just download and install the Windows 10/11 installation assistant, select the version of windows you want to install, select the USB stick to download and copy onto.
 
 https://www.microsoft.com/en-us/software-download/windows11
 
