@@ -1,5 +1,5 @@
 # MS-Scripts & Utilities.
- Links to useful MS Scripts and Utility apps for configuring Windows PC's
+ Links to useful MS Scripts and Utility apps for configuring Windows PC's and Servers.
  
  
  ### Dev Box setup
