@@ -43,6 +43,8 @@ You can copy many files at a time and ventoy will give you a boot menu to select
  The icon will change from the default folder icon to the Control Panel icon, where it lists all the control panel options in one big list. 
  If you dont like it, just deleted the folder.
  
+ As more of the Control Panel options are moved to the new Windows Setting window, you can still access the Control Panel, by searching for "Control Panel" in the taskbar search box, open it, then right mouse click on the Control Panel icon now visible on the taskbar, and choose Pin to Taskbar to pin it to the taskbar. Some control panel icons will take you back to the Windows Setting window, as Microsofts move them to the new part of the system.
+ 
  
  Additional utilities will be added over time if I find them useful for myself.
  
