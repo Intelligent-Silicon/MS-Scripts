@@ -52,9 +52,9 @@ To install drivers for your computer, create a folder on the USB stick, calling 
  ### God Mode
  
  Create a folder on your desktop and call it/rename it:
- 
+ ```
  God Mode.{ED7BA470-8E54-465E-825C-99712043E01C}.
- 
+ ```
  The icon will change from the default folder icon to the control panel icon, where it lists all the control panel options in one big list. 
  If you dont like it, just delete the folder.
  
